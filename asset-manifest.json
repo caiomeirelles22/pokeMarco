@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bnome-do-repositorio%7D/static/css/main.abd64e84.css",
+    "main.js": "/%7Bnome-do-repositorio%7D/static/js/main.85de0769.js",
+    "index.html": "/%7Bnome-do-repositorio%7D/index.html",
+    "main.abd64e84.css.map": "/%7Bnome-do-repositorio%7D/static/css/main.abd64e84.css.map",
+    "main.85de0769.js.map": "/%7Bnome-do-repositorio%7D/static/js/main.85de0769.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.85de0769.js"
+  ]
+}
