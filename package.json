@@ -1,7 +1,7 @@
 {
   "name": "pokedex",
   "version": "0.1.0",
-  "homepage": "https://{username}.github.io/{nome-do-repositorio}",
+  "homepage": "https://caiomeirelles22.github.io/pokeMarco",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
